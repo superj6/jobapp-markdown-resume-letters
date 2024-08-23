@@ -1,0 +1,1 @@
+pandoc resume.md -f commonmark -t pdf --pdf-engine=wkhtmltopdf --pdf-engine-opt=--enable-local-file-access -c resume-stylesheet.css -s -o resume.pdf -V margin-top=0 -V margin-left=0 -V margin-right=0 -V margin-bottom=0 -V papersize=A4
