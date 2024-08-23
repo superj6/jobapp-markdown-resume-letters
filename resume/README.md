@@ -1,3 +1,5 @@
+from <https://github.com/vidluther/markdown-resume>
+
 # Markdown Resume
 
 This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML or PDF file.
